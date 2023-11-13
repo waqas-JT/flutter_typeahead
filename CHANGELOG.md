@@ -1,3 +1,7 @@
+## 5.0.0 - 13-Nov-2023
+
+PR # 534 - Added: validator to textFieldConfiguration
+
 ## 4.9.0 - 22-Oct-2023
 
 PR # 519 - Added: pull to load more

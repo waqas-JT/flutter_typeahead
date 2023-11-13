@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_typeahead/flutter_typeahead.dart';
+import 'package:flutter_typeahead/flutter_typeahead2.dart';
 import 'helpers/material_typeahead_helper.dart';
 
 /// Material Typeahead widget tests where there are 6 typeaheads. To test overlays and other widgets.
